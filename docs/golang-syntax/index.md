@@ -7,6 +7,7 @@ This documentation series refreshes Go syntax and day-to-day idioms, split into 
 - [Part 3: Structs, embedding, and composition patterns](./part3.md)
 - [Part 4: Error handling and panic/recover](./part4.md)
 - [Part 5: Concurrency (goroutines, channels, sync, context)](./part5.md)
+- [Part 6: Advanced patterns (generics, reflection, context, API design)](./part6.md)
 
 As you progress, more parts will be added.
 
