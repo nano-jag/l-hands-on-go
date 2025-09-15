@@ -11,5 +11,9 @@ This documentation series refreshes Go syntax and day-to-day idioms, split into 
 - [Part 7: Package management and module system](./part7.md)
 - [Part 8: Testing, benchmarking, and profiling](./part8.md)
 
+Quick references:
+
+- [Quick Start Cheatsheet](./cheatsheet.md)
+
 As you progress, more parts will be added.
 
